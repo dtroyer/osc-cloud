@@ -4,9 +4,9 @@ Installation
 
 At the command line::
 
-    $ pip install osc-plugin
+    $ pip install osc-cloud
 
 Or, if you have virtualenvwrapper installed::
 
-    $ mkvirtualenv osc-plugin
-    $ pip install osc-plugin
+    $ mkvirtualenv osc-cloud
+    $ pip install osc-cloud

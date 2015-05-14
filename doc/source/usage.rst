@@ -2,6 +2,6 @@
 Usage
 =====
 
-To use osc-plugin in a project::
+To use osc-cloud in a project::
 
-	import oscplugin
+	import osccloud

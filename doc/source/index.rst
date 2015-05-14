@@ -1,8 +1,8 @@
-==========
-osc-plugin
-==========
+=========
+osc-cloud
+=========
 
-osc-plugin is a sample OpenStackClient plugin.
+osc-cloud is an OpenStackClient plugin to manage ``clouds.yaml``.
 
 Contents:
 
